@@ -1,0 +1,14 @@
+{
+  "name": "jquery-easyui",
+  "authors": [
+    "fudongwei <fudongwei@sanjiang365.com>"
+  ],
+  "description": "newest easyui for bower.",
+  "main": "jquery.easyui.min.js",
+  "keywords": [
+    "easyui",
+    "1.5.0"
+  ],
+  "license": "GPL",
+  "homepage": "https://github.com/kimifdw/jquery-easyui"
+}
