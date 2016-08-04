@@ -1,14 +1,15 @@
 {
-  "name": "jquery-easyui",
+  "name": "kimifdw-jquery-easyui",
+  "homepage": "https://github.com/kimifdw/jquery-easyui",
   "authors": [
     "fudongwei <fudongwei@sanjiang365.com>"
   ],
-  "description": "newest easyui for bower.",
+  "description": "jquery easyui for bower.",
   "main": "jquery.easyui.min.js",
   "keywords": [
-    "easyui",
-    "1.5.0"
+    "kimifdw-jquery-easyui",
+    "jquery-easyui",
+    "easyui"
   ],
-  "license": "GPL",
-  "homepage": "https://github.com/kimifdw/jquery-easyui"
+  "license": "GPL"
 }
